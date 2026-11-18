@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455862190153",
+    "project_id": "actividad21-push-4397a7",
+    "storage_bucket": "actividad21-push-4397a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455862190153:android:89947d7ed7ed71b229ff98",
+        "android_client_info": {
+          "package_name": "com.equipos.seguimientosolicitudes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtX0TgjE1R932eTlsy1-xiw3Sal6XcOpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+# El archivo google-services.json contiene la configuración cliente de Firebase
+# y debe incluirse en la compilación de Android.
+node_modules/
+.expo/
+.env*
+android/
+ios/
+dist/
+credentials/
+credentials.json
+*-firebase-adminsdk-*.json
+*.keystore
+*.jks
+*.p8

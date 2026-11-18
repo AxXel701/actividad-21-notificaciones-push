@@ -1,0 +1,13 @@
+node_modules/
+.expo/
+.env*
+android/
+ios/
+dist/
+google-services.json
+credentials/
+credentials.json
+*-firebase-adminsdk-*.json
+*.keystore
+*.jks
+*.p8
